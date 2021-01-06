@@ -111,7 +111,7 @@ h1{
     background-position: center;
     padding: 60px;
     padding-top: 15%;
-    margin-right: 60px;
+    
   
 }
 
@@ -128,7 +128,7 @@ h1{
 .box{
     text-align: center;
     color: ivory;
-    padding-bottom:110px ;
+    padding-bottom:80px ;
     
 }
 
@@ -146,9 +146,9 @@ h1{
     text-decoration: none;
 }
 
-.icon img{
+.icon{
 
-  widows: 50px;
-  height: 60px;
+  widows: 5px;
+  height: 6px;
   text-align: center;
 }
