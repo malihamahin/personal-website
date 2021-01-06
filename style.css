@@ -1,0 +1,120 @@
+body{
+font-family: 'Roboto Condensed', sans-serif;
+margin: 0px;
+}
+
+section{
+    height: 400px;
+
+}
+
+.maliha-highlight{
+    color: darkgoldenrod;
+}
+h1{
+    font-size: 30px;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+    padding-right: 50px;
+}
+
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, lightsalmon);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: seashell;
+   
+}
+.cv-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(tomato, lightsalmon);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: rgba(247, 245, 245, 0.945);
+
+}
+
+.border{
+    background-color: rgba(223, 220, 219, 0.829);
+    padding: 5%;
+
+}
+
+
+
+.one-third{
+
+    width: 25%;
+    float: left; 
+    margin: 2p%;
+    margin-right: 5%;
+    padding-: 0%;
+}
+
+.one-third img{
+    width: 100%;
+    padding: 5% 1%;
+}
+
+.project{
+    text-align: center;
+}
+.project-color{
+    color: indianred;
+}
+
+
+.purple{
+    background-image: url("images/purple.png");
+    background-size: 900px 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 60px;
+    padding-top: 15%;
+    margin-right: 60px;
+  
+}
+
+.chat-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, lightsalmon);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: seashell;
+    font-weight: 300;
+
+}
+
+.box{
+    text-align: center;
+    color: ivory;
+    padding-bottom:110px ;
+    
+}
+
+.stay{
+    text-align: center;
+    color: rgb(85, 3, 3);
+}
+.com{
+    
+    text-align: center;
+    color:darkred ;
+}
+
+.deco{
+    text-decoration: none;
+}
+
+.icon{
+  text-align: center;
+}
