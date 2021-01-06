@@ -3,6 +3,12 @@ font-family: 'Roboto Condensed', sans-serif;
 margin: 0px;
 }
 
+.right{
+text-align: right;
+padding-right: 10%;
+font-weight: bold;
+
+}
 section{
     height: 400px;
 
@@ -55,9 +61,9 @@ h1{
 
     width: 25%;
     float: left; 
-    margin: 2p%;
+    margin: 2%;
     margin-right: 5%;
-    padding-: 0%;
+    padding : 0%;
 }
 
 .one-third img{
@@ -72,6 +78,31 @@ h1{
     color: indianred;
 }
 
+
+.testimonials{
+    text-align: center;
+    font: bolder;
+    padding-top: 5%;
+}
+
+
+
+.test{
+ border: 5px solid antiquewhite;
+ float: left;
+ border-radius: 20px;
+ margin: 1%;
+ padding: 2%;
+ width: 25%;
+ text-align: justify;
+}
+
+.down{
+    text-align:left ;
+    float:right;
+    color: maroon;
+
+}
 
 .purple{
     background-image: url("images/purple.png");
@@ -115,6 +146,9 @@ h1{
     text-decoration: none;
 }
 
-.icon{
+.icon img{
+
+  widows: 50px;
+  height: 60px;
   text-align: center;
 }
